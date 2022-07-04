@@ -11,7 +11,7 @@ Some of my favorite unity projects. Every project was created entirely by myself
 
 ![alt text](https://i.imgur.com/gVrDxcF.png)
 
-[Dungeon Dweller](/Dungeon%20Dweller/Screenshots.md)
+[Dungeon Dweller](/Dungeon%20Dweller/Screenshot.md)
 
 <br>
 <br>
